@@ -1,0 +1,3 @@
+id,name,source_url,status,evidence_url,last_error,updated_at
+library-a,演示图书馆,https://example.org/a,verified,https://example.org/a/evidence,,2026-10-20
+library-b,Demo Library B,https://example.org/b,pending,,,2026-10-22

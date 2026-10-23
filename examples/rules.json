@@ -1,0 +1,14 @@
+{
+  "id": "id",
+  "required": ["name", "source_url"],
+  "enums": {"status": ["pending", "verified", "failed"]},
+  "urls": ["source_url", "evidence_url"],
+  "freshness": {"field": "updated_at", "max_age_days": 30},
+  "verification": {
+    "status_field": "status",
+    "verified_value": "verified",
+    "evidence_field": "evidence_url",
+    "error_field": "last_error"
+  },
+  "max_removed_fraction": 0.25
+}

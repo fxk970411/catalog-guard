@@ -1,0 +1,4 @@
+[
+  {"id":"library-a","name":"","source_url":"javascript:alert(1)","status":"verified","evidence_url":"","last_error":"HTTP 402","updated_at":"2026-10-20"},
+  {"id":"library-a","name":"Duplicate demo","source_url":"https://example.org","status":"pending","updated_at":"2025-01-01"}
+]

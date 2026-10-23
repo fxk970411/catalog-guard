@@ -1,0 +1,5 @@
+[
+  {"id":"library-a","name":"Old Demo Library A","source_url":"https://example.org/a","status":"pending","evidence_url":"","last_error":"","updated_at":"2026-10-19"},
+  {"id":"library-b","name":"Demo Library B","source_url":"https://example.org/b","status":"pending","evidence_url":"","last_error":"","updated_at":"2026-10-22"},
+  {"id":"library-c","name":"Demo Library C"}
+]
